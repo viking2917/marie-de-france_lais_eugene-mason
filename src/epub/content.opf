@@ -37,14 +37,23 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+    <meta property="se:subject">Shorts</meta>
+		<dc:description id="description">The collected lais of Marie de France, the twelfth century French poet.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+<p>The lais, or lays, of Marie de France are a collection medieval poems, tales of chivalry, knights, ladies, love lost and found.
+</p>
+
+<p>Marie is regarded as the first female poet writing in French. Most of the details of her life are lost to history, but the poet herself says she is of France. The Lais were likely composed in the 1170s and it is believed she died around 1190. She was thought to have lived and composed mostly in England, perhaps at the court of King Henry II. She wrote in Anglo-Norman, the language of the Norman conquerers of England, and knew Latin, indicating she was likely of noble birth.
+</p>
+<p>There are twelve lais attributed to her. They are medieval fairy tales, featuring knights, ladies, and courtly romance, as well as Arthurian adventures. A streak of the fantastical runs through the tales: ships sail themselves without a crew, animals speak, knights shapeshift to werewolves or hawks, the better to fly into ladies' towers.
+</p>
+<p>This edition, originally published in 1911, includes an introduction by the translator, Eugene Mason.
+</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/11417</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://archive.org/details/laysofmariedefra00mar</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -52,34 +61,32 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/marie-de-france_lais_eugene-mason</meta>
 		<dc:creator id="author">Marie de France</dc:creator>
 		<meta property="file-as" refines="#author">France, Marie de</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Marie_de_France</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50040631</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Eugene Mason</dc:contributor>
 		<meta property="file-as" refines="#translator">Mason, Eugene</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n84055828</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+    <meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Juliet Sutherland</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Sutherland, Juliet</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Bradley Norton</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Norton, Bradley</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Mark Watkins</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Watkins, Mark</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.viking2917.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
