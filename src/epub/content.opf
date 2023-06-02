@@ -125,7 +125,7 @@
 		<itemref idref="introduction.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="prologue.xhtml"/>
-    <itemref idref="the-lay-of-gugemar.xhtml"/>
+		<itemref idref="the-lay-of-gugemar.xhtml"/>
 		<itemref idref="the-lay-of-the-dolorous-knight.xhtml"/>
 		<itemref idref="the-lay-of-eliduc.xhtml"/>
 		<itemref idref="the-lay-of-the-nightingale.xhtml"/>
